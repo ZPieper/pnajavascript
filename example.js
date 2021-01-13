@@ -17,6 +17,9 @@ function removeDup(arr){
     }
 }
 
+console.log("Hello")
+console.log("Hey there")
+
 console.log(removeDup([1,3,5,5,5,7]))
 console.log(removeDup([]))
 
